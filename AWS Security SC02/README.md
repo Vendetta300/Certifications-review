@@ -1,5 +1,5 @@
-**AWS Security SC02**
 <p align="center">
+**AWS Security SC02**
 <img width="314" height="340" alt="Untitled" src="https://github.com/user-attachments/assets/b074c038-0d9f-4256-844d-40a7b3abebb9" />
 </p>
 AWS Certified Security - Specialty validates your expertise in creating and implementing security solutions in the AWS Cloud. This certification also validates your understanding of specialized data classifications and AWS data protection mechanisms; data-encryption methods and AWS mechanisms to implement them; and secure internet protocols and AWS mechanisms to implement them.
@@ -31,13 +31,13 @@ Domain 6: Management and Security Governance (14% of scored content)
 **How I studied for the exam**
 
 Udemy Training Course
-The course I used to study with is the [https://www.udemy.com/course/ultimate-aws-certified-security-specialty/?couponCode=ACCAGE0923](Udemy). Although I did not know much about AWS, through the course and reading the official documentation on AWS, it was enough for me to prepare theoretical knowledge.
+The course I used to study with is the [Udemy](https://www.udemy.com/course/ultimate-aws-certified-security-specialty/?couponCode=ACCAGE0923). Although I did not know much about AWS, through the course and reading the official documentation on AWS, it was enough for me to prepare theoretical knowledge.
 
 AWS Documentation
 The resource I used to practice was the AWS official documentation. The AWS website is a fountain of useful information, which will not just help you study, but also help you day-to-day when you are using AWS Security features & services.
 
 Practice Exams
-Although Stephane Maarek has his own course with questions, I advise all participants to include as many questions as possible. Some questions can be repeated on the exam, and by solving the quizzes you can expand your knowledge and solve some doubts during your studies. Additional questions can be found on Udemy if you have access from the company or for payment on the Tutorial Dojo site [https://tutorialsdojo.com/aws-certified-security-specialty-exam-guide-study-path-scs-c02/](Url).
+Although Stephane Maarek has his own course with questions, I advise all participants to include as many questions as possible. Some questions can be repeated on the exam, and by solving the quizzes you can expand your knowledge and solve some doubts during your studies. Additional questions can be found on Udemy if you have access from the company or for payment on the Tutorial Dojo site [Url](https://tutorialsdojo.com/aws-certified-security-specialty-exam-guide-study-path-scs-c02/).
 
 **Exam Experience**
 
@@ -47,7 +47,7 @@ Once that is complete they will ask you to show them the room, to ensure there i
 
 **Hints For The Exam**
 
-The exam lasts 180 minutes, so read each question very CAREFULLY and several times. Look at the key points in the question, because the details in the answers may depend on it. For any question you are not sure about, you can leave a review flag and come back to them later. I recommend watching this video on You Tube [https://www.youtube.com/watch?v=jkJK1uKKYWw](YouTube) before takeing the exam questions.
+The exam lasts 180 minutes, so read each question very CAREFULLY and several times. Look at the key points in the question, because the details in the answers may depend on it. For any question you are not sure about, you can leave a review flag and come back to them later. I recommend watching this video on [YouTube](https://www.youtube.com/watch?v=jkJK1uKKYWw) before takeing the exam questions.
 
 
 
