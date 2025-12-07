@@ -7,7 +7,8 @@ The candidate should also have a several years of experience working in a securi
 Security Analyst<br />
 Security Engineer<br />
 Security Architect<br />
-Platform Engineering / Security<br />
+Platform Engineering - Security<br />
+
 
 **About the Exam**
 
