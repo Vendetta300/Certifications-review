@@ -8,7 +8,7 @@ Security Analyst<br />
 Security Engineer<br />
 Security Architect<br />
 Platform Engineering - Security<br />
-
+<br />
 
 **About the Exam**
 
