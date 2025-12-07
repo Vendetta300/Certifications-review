@@ -4,11 +4,11 @@
 </p>
 AWS Certified Security - Specialty validates your expertise in creating and implementing security solutions in the AWS Cloud. This certification also validates your understanding of specialized data classifications and AWS data protection mechanisms; data-encryption methods and AWS mechanisms to implement them; and secure internet protocols and AWS mechanisms to implement them.<br />
 The candidate should also have a several years of experience working in a security focused role, or be someone from a Developer/Platform Engineering role who has an interest in becoming a security champion within their organization. The security specialty can be ideally suited to any of these roles:<br />
-Security Analyst
-Security Engineer
-Security Architect
+Security Analyst<br />
+Security Engineer<br />
+Security Architect<br />
 Platform Engineering / Security<br />
-
+<br />
 **About the Exam**
 <br />
 Assessment Type: Multiple choice<br />
@@ -18,18 +18,18 @@ Number of Questions: 65<br />
 Passing Grade: 750 / 1000 (75%)<br />
 Price: $300 USD, plus locally applicable taxes and fees.<br />
 Expiration: 3 years<br />
-
+<br />
 **Exam Curriculum**
 <br />
-Domain 1: Threat Detection and Incident Response (14% of scored content)
-Domain 2: Security Logging and Monitoring (18% of scored content)
-Domain 3: Infrastructure Security (20% of scored content)
-Domain 4: Identity and Access Management (16% of scored content)
-Domain 5: Data Protection (18% of scored content)
-Domain 6: Management and Security Governance (14% of scored content)
-
+Domain 1: Threat Detection and Incident Response (14% of scored content)<br />
+Domain 2: Security Logging and Monitoring (18% of scored content)<br />
+Domain 3: Infrastructure Security (20% of scored content)<br />
+Domain 4: Identity and Access Management (16% of scored content)<br />
+Domain 5: Data Protection (18% of scored content)<br />
+Domain 6: Management and Security Governance (14% of scored content)<br />
+<br />
 **How I studied for the exam**
-
+<br />
 Udemy Training Course
 The course I used to study with is the [Udemy](https://www.udemy.com/course/ultimate-aws-certified-security-specialty/?couponCode=ACCAGE0923). Although I did not know much about AWS, through the course and reading the official documentation on AWS, it was enough for me to prepare theoretical knowledge.
 
@@ -42,7 +42,9 @@ Although Stephane Maarek has his own course with questions, I advise all partici
 **Exam Experience**
 
 The exam is proctored online, meaning that you will need to install a piece of software which will monitor your screen; it will also record you via your laptop webcam, including any sound. It means that you must be in a quiet room with no distractions. You can read more about that on their website. I advise that you download and test the software (there is a connectivity checker) which you can run before the exam. This just confirms your webcam, microphone and internet connection are all working correctly.
+
 Once your exam window opens, you can begin the exam, at which point you will be connected to remote proctor, to monitor you during the exam. They will verify your identity by asking you to present a valid form of identification (ID card, passport or driving licence) to ensure it is really you taking the exam. I used their phone apllication to picture my room and document.
+
 Once that is complete they will ask you to show them the room, to ensure there is no-one else present and that there are no materials in sight which might allow for cheating. I must emphasize that the table you are working on must be clean. Any device must be out of reach of hands. Read the exam conditions before starting the exam, this will include all the information you need to know before the exam begins.
 
 **Hints For The Exam**
