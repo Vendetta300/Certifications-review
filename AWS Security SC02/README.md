@@ -1,26 +1,26 @@
-<p align="center">
 **AWS Security SC02**
+<p align="center">
 <img width="314" height="340" alt="Untitled" src="https://github.com/user-attachments/assets/b074c038-0d9f-4256-844d-40a7b3abebb9" />
 </p>
-AWS Certified Security - Specialty validates your expertise in creating and implementing security solutions in the AWS Cloud. This certification also validates your understanding of specialized data classifications and AWS data protection mechanisms; data-encryption methods and AWS mechanisms to implement them; and secure internet protocols and AWS mechanisms to implement them.
-The candidate should also have a several years of experience working in a security focused role, or be someone from a Developer/Platform Engineering role who has an interest in becoming a security champion within their organization. The security specialty can be ideally suited to any of these roles:
+AWS Certified Security - Specialty validates your expertise in creating and implementing security solutions in the AWS Cloud. This certification also validates your understanding of specialized data classifications and AWS data protection mechanisms; data-encryption methods and AWS mechanisms to implement them; and secure internet protocols and AWS mechanisms to implement them.<br />
+The candidate should also have a several years of experience working in a security focused role, or be someone from a Developer/Platform Engineering role who has an interest in becoming a security champion within their organization. The security specialty can be ideally suited to any of these roles:<br />
 Security Analyst
 Security Engineer
 Security Architect
-Platform Engineering / Security
+Platform Engineering / Security<br />
 
 **About the Exam**
-
-Assessment Type: Multiple choice
-Format: Online proctored
-Duration: 3 hours
-Number of Questions: 65
-Passing Grade: 750 / 1000 (75%)
-Price: $300 USD, plus locally applicable taxes and fees.
-Expiration: 3 years
+<br />
+Assessment Type: Multiple choice<br />
+Format: Online proctored<br />
+Duration: 3 hours<br />
+Number of Questions: 65<br />
+Passing Grade: 750 / 1000 (75%)<br />
+Price: $300 USD, plus locally applicable taxes and fees.<br />
+Expiration: 3 years<br />
 
 **Exam Curriculum**
-
+<br />
 Domain 1: Threat Detection and Incident Response (14% of scored content)
 Domain 2: Security Logging and Monitoring (18% of scored content)
 Domain 3: Infrastructure Security (20% of scored content)
