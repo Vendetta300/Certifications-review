@@ -8,9 +8,9 @@ Security Analyst<br />
 Security Engineer<br />
 Security Architect<br />
 Platform Engineering / Security<br />
-<br />
+
 **About the Exam**
-<br />
+
 Assessment Type: Multiple choice<br />
 Format: Online proctored<br />
 Duration: 3 hours<br />
@@ -18,18 +18,18 @@ Number of Questions: 65<br />
 Passing Grade: 750 / 1000 (75%)<br />
 Price: $300 USD, plus locally applicable taxes and fees.<br />
 Expiration: 3 years<br />
-<br />
+
 **Exam Curriculum**
-<br />
+
 Domain 1: Threat Detection and Incident Response (14% of scored content)<br />
 Domain 2: Security Logging and Monitoring (18% of scored content)<br />
 Domain 3: Infrastructure Security (20% of scored content)<br />
 Domain 4: Identity and Access Management (16% of scored content)<br />
 Domain 5: Data Protection (18% of scored content)<br />
 Domain 6: Management and Security Governance (14% of scored content)<br />
-<br />
+
 **How I studied for the exam**
-<br />
+
 Udemy Training Course
 The course I used to study with is the [Udemy](https://www.udemy.com/course/ultimate-aws-certified-security-specialty/?couponCode=ACCAGE0923). Although I did not know much about AWS, through the course and reading the official documentation on AWS, it was enough for me to prepare theoretical knowledge.
 
