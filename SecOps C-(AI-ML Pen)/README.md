@@ -1,6 +1,6 @@
 **SecOps Group - C-AI/ML Pen**
 <p align="center">
-<img width="440" height="440" alt="image" src="https://github.com/user-attachments/assets/b6859fb2-f061-4e58-9245-b2c5f71050d7" />
+<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/b6859fb2-f061-4e58-9245-b2c5f71050d7" />
 </p>
 The Certified AI/ML Pentester (C-AI/MLPen) is an intermediate-level exam designed to test a candidate’s knowledge of the core concepts involving AI/ML security. C-AI/MLPen is intended to be taken by pentesters, application security architects, SOC analysts, red and blue team members, AI/ML engineers and any AI/ML security enthusiast, who wants to evaluate and advance their knowledge. Designed by The SecOps Group, it’s one of the first hands-on certifications dedicated entirely to AI/ML security. Unlike multiple-choice exams that test theory, this one drops candidates straight into real-world, CTF-style labs, where they must exploit vulnerabilities in AI systems to capture hidden flags. <br />
 
