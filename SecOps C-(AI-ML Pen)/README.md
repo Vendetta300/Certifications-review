@@ -13,7 +13,7 @@ Format: Solve 8 AI/LLM hacking challenges<br />
 Mode: Online, on-demand, with AI proctoring<br />
 Passing Criteria: 5 out of 8 flags (≥60%)<br />
 Style: Capture-the-Flag (CTF), hands-on labs<br />
-Price: £250 GBP, but sometimes they have discounts of 80% on their certificates .<br />
+Price: £250 GBP, but sometimes they have discounts of 80% on their certificates<br />
 
 
 **Exam Curriculum**
@@ -73,7 +73,7 @@ The exam is proctored online, since you are connecting to their platform with a 
 Consider next:<br />
 1. Time Management - 4 hours go by fast. Aim for 20~30 minutes per challenge, and don’t get stuck too long on one.<br />
 2. Think Creative - Many AI attacks rely on unconventional thinking, try unusal prompt as much as possible, even if you think this is stupid and it will not make it.<br />
-3. Skip challenge - You can always back to previous once if you got some idea how to resolve.<br />
+3. Skip challenge - You can always back to previous once if you get some idea how to resolve.<br />
 4. OWASP Top 10 - Every challenge is designed based on these vulnerabilities.<br />
 5. Persistence and patience - You have enough time and you don't need to solve every challenge to pass the exam.<br />
 
