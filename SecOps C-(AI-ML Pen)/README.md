@@ -14,7 +14,7 @@ Mode: Online, on-demand, with AI proctoring<br />
 Passing Criteria: 5 out of 8 flags (≥60%)<br />
 Style: Capture-the-Flag (CTF), hands-on labs<br />
 Price: £250 GBP, but sometimes they have discounts of 80% on their certificates .<br />
-Expiration: 3 years<br />
+
 
 **Exam Curriculum**
 
