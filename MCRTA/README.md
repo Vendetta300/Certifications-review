@@ -21,8 +21,8 @@ Enumerate core cloud services used in enterprises. Exploit chained misconfigurat
 **Exam Curriculum**
 
 1. OSINT: Enumerate cloud componets (S3 bukcets, Azure blobs, GitHub repoes)<br />
-2. Use OWASP Top 10 vulnerabilites to exploit application.<br />
-3. Use credentials for further enumeration and findings flags.<br />
+2. Use OWASP Top 10 vulnerabilites to exploit application<br />
+3. Use credentials for further enumeration and finding flags<br />
 
 As you go through the exam, the flags also have a hitns which can guide you.<br />
 
